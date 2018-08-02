@@ -15,7 +15,7 @@ to represent the Q-network, and to train this Q-network to predict total reward.
 largely failed due to unstable learning. To address these instabilities, our Deep Q-Networks (DQN) algorithm stores all of the agent's experiences
  and then randomly samples and replays these experiences to provide diverse and decorrelated training data. </br>
 Reinforcement learning: </br>
-![reinforcement learning](reinforcement learning.png) </br>
+![reinforcement learning](reinforcement_learning.png) </br>
 In this post, I implement a DQN to Cartpole game: </br>
 ![Cartpole](Cartpole.png) </br>
 

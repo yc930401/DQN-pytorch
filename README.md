@@ -32,7 +32,7 @@ In this post, I implement a DQN to Cartpole game: </br>
 ## References:
 https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html </br>
 http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture14.pdf </br>
-Other very good references about policy-gradient and Actor-Critic model:
+Other very good references about policy-gradient and Actor-Critic model: </br>
 https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/5-2-policy-gradient-softmax2/ </br>
 https://github.com/higgsfield/RL-Adventure-2/blob/master/1.actor-critic.ipynb </br>
 
